@@ -1,0 +1,3 @@
+/Users/direk/Desktop/Ex4/no2/cmake-build-debug/CMakeFiles/no2.dir
+/Users/direk/Desktop/Ex4/no2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/direk/Desktop/Ex4/no2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
